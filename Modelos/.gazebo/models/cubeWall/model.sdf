@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="cube">
+    <static>true</static>
+    <link name="link">
+      <pose>0 0 0.1 0 0 0</pose>
+      <collision name="collision">
+        <geometry>
+          <box>
+            <size>0.4 0.4 0.2</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <box>
+            <size>0.4 0.4 0.2</size>
+          </box>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Brown</name>
+            </script>
+          </material>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>
