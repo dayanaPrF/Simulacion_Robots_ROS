@@ -1,0 +1,1495 @@
+<?xml version="1.0" ?>
+    <sdf version="1.6">
+    <world name="default">
+        <include>
+        <uri>model://ground_plane</uri>
+        </include>
+        <include>
+        <uri>model://sun</uri>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_1</name>
+        <pose>-4.6000000000000005 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_2</name>
+        <pose>-4.6000000000000005 -3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_3</name>
+        <pose>-4.6000000000000005 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_4</name>
+        <pose>-4.6000000000000005 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_5</name>
+        <pose>-4.6000000000000005 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_6</name>
+        <pose>-4.6000000000000005 -2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_7</name>
+        <pose>-4.6000000000000005 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_8</name>
+        <pose>-4.6000000000000005 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_9</name>
+        <pose>-4.6000000000000005 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_10</name>
+        <pose>-4.6000000000000005 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_11</name>
+        <pose>-4.6000000000000005 0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_12</name>
+        <pose>-4.6000000000000005 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_13</name>
+        <pose>-4.6000000000000005 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_14</name>
+        <pose>-4.6000000000000005 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_15</name>
+        <pose>-4.6000000000000005 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_16</name>
+        <pose>-4.6000000000000005 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_17</name>
+        <pose>-4.6000000000000005 2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_18</name>
+        <pose>-4.6000000000000005 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_19</name>
+        <pose>-4.6000000000000005 3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_20</name>
+        <pose>-4.6000000000000005 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_21</name>
+        <pose>-4.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_22</name>
+        <pose>-4.2 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_23</name>
+        <pose>-4.2 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_24</name>
+        <pose>-4.2 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_25</name>
+        <pose>-4.2 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_26</name>
+        <pose>-4.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_27</name>
+        <pose>-3.8000000000000003 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_28</name>
+        <pose>-3.8000000000000003 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_29</name>
+        <pose>-3.8000000000000003 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_30</name>
+        <pose>-3.8000000000000003 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_31</name>
+        <pose>-3.8000000000000003 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_32</name>
+        <pose>-3.8000000000000003 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_33</name>
+        <pose>-3.8000000000000003 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_34</name>
+        <pose>-3.8000000000000003 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_35</name>
+        <pose>-3.8000000000000003 0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_36</name>
+        <pose>-3.8000000000000003 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_37</name>
+        <pose>-3.8000000000000003 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_38</name>
+        <pose>-3.8000000000000003 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_39</name>
+        <pose>-3.8000000000000003 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_40</name>
+        <pose>-3.8000000000000003 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_41</name>
+        <pose>-3.4000000000000004 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_42</name>
+        <pose>-3.4000000000000004 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_43</name>
+        <pose>-3.4000000000000004 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_44</name>
+        <pose>-3.4000000000000004 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_45</name>
+        <pose>-3.4000000000000004 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_46</name>
+        <pose>-3.4000000000000004 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_47</name>
+        <pose>-3.4000000000000004 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_48</name>
+        <pose>-3.0 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_49</name>
+        <pose>-3.0 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_50</name>
+        <pose>-3.0 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_51</name>
+        <pose>-3.0 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_52</name>
+        <pose>-3.0 -0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_53</name>
+        <pose>-3.0 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_54</name>
+        <pose>-3.0 0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_55</name>
+        <pose>-3.0 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_56</name>
+        <pose>-3.0 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_57</name>
+        <pose>-3.0 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_58</name>
+        <pose>-3.0 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_59</name>
+        <pose>-3.0 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_60</name>
+        <pose>-2.6 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_61</name>
+        <pose>-2.6 -3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_62</name>
+        <pose>-2.6 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_63</name>
+        <pose>-2.6 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_64</name>
+        <pose>-2.6 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_65</name>
+        <pose>-2.6 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_66</name>
+        <pose>-2.6 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_67</name>
+        <pose>-2.6 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_68</name>
+        <pose>-2.6 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_69</name>
+        <pose>-2.6 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_70</name>
+        <pose>-2.6 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_71</name>
+        <pose>-2.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_72</name>
+        <pose>-2.2 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_73</name>
+        <pose>-2.2 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_74</name>
+        <pose>-2.2 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_75</name>
+        <pose>-2.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_76</name>
+        <pose>-1.8 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_77</name>
+        <pose>-1.8 -3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_78</name>
+        <pose>-1.8 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_79</name>
+        <pose>-1.8 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_80</name>
+        <pose>-1.8 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_81</name>
+        <pose>-1.8 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_82</name>
+        <pose>-1.8 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_83</name>
+        <pose>-1.8 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_84</name>
+        <pose>-1.8 -0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_85</name>
+        <pose>-1.8 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_86</name>
+        <pose>-1.8 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_87</name>
+        <pose>-1.8 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_88</name>
+        <pose>-1.8 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_89</name>
+        <pose>-1.8 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_90</name>
+        <pose>-1.8 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_91</name>
+        <pose>-1.8 3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_92</name>
+        <pose>-1.8 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_93</name>
+        <pose>-1.4000000000000001 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_94</name>
+        <pose>-1.4000000000000001 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_95</name>
+        <pose>-1.4000000000000001 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_96</name>
+        <pose>-1.4000000000000001 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_97</name>
+        <pose>-1.4000000000000001 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_98</name>
+        <pose>-1.4000000000000001 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_99</name>
+        <pose>-1.4000000000000001 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_100</name>
+        <pose>-1.0 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_101</name>
+        <pose>-1.0 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_102</name>
+        <pose>-1.0 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_103</name>
+        <pose>-1.0 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_104</name>
+        <pose>-1.0 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_105</name>
+        <pose>-1.0 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_106</name>
+        <pose>-1.0 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_107</name>
+        <pose>-1.0 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_108</name>
+        <pose>-1.0 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_109</name>
+        <pose>-1.0 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_110</name>
+        <pose>-1.0 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_111</name>
+        <pose>-0.6000000000000001 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_112</name>
+        <pose>-0.6000000000000001 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_113</name>
+        <pose>-0.6000000000000001 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_114</name>
+        <pose>-0.6000000000000001 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_115</name>
+        <pose>-0.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_116</name>
+        <pose>-0.2 -3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_117</name>
+        <pose>-0.2 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_118</name>
+        <pose>-0.2 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_119</name>
+        <pose>-0.2 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_120</name>
+        <pose>-0.2 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_121</name>
+        <pose>-0.2 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_122</name>
+        <pose>-0.2 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_123</name>
+        <pose>-0.2 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_124</name>
+        <pose>-0.2 2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_125</name>
+        <pose>-0.2 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_126</name>
+        <pose>-0.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_127</name>
+        <pose>0.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_128</name>
+        <pose>0.2 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_129</name>
+        <pose>0.2 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_130</name>
+        <pose>0.2 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_131</name>
+        <pose>0.2 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_132</name>
+        <pose>0.2 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_133</name>
+        <pose>0.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_134</name>
+        <pose>0.6000000000000001 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_135</name>
+        <pose>0.6000000000000001 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_136</name>
+        <pose>0.6000000000000001 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_137</name>
+        <pose>0.6000000000000001 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_138</name>
+        <pose>0.6000000000000001 -2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_139</name>
+        <pose>0.6000000000000001 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_140</name>
+        <pose>0.6000000000000001 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_141</name>
+        <pose>0.6000000000000001 -0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_142</name>
+        <pose>0.6000000000000001 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_143</name>
+        <pose>0.6000000000000001 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_144</name>
+        <pose>0.6000000000000001 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_145</name>
+        <pose>0.6000000000000001 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_146</name>
+        <pose>0.6000000000000001 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_147</name>
+        <pose>0.6000000000000001 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_148</name>
+        <pose>0.6000000000000001 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_149</name>
+        <pose>1.0 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_150</name>
+        <pose>1.0 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_151</name>
+        <pose>1.0 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_152</name>
+        <pose>1.0 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_153</name>
+        <pose>1.0 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_154</name>
+        <pose>1.0 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_155</name>
+        <pose>1.0 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_156</name>
+        <pose>1.0 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_157</name>
+        <pose>1.4000000000000001 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_158</name>
+        <pose>1.4000000000000001 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_159</name>
+        <pose>1.4000000000000001 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_160</name>
+        <pose>1.4000000000000001 -2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_161</name>
+        <pose>1.4000000000000001 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_162</name>
+        <pose>1.4000000000000001 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_163</name>
+        <pose>1.4000000000000001 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_164</name>
+        <pose>1.4000000000000001 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_165</name>
+        <pose>1.4000000000000001 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_166</name>
+        <pose>1.4000000000000001 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_167</name>
+        <pose>1.4000000000000001 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_168</name>
+        <pose>1.4000000000000001 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_169</name>
+        <pose>1.4000000000000001 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_170</name>
+        <pose>1.4000000000000001 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_171</name>
+        <pose>1.8 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_172</name>
+        <pose>1.8 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_173</name>
+        <pose>1.8 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_174</name>
+        <pose>1.8 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_175</name>
+        <pose>1.8 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_176</name>
+        <pose>1.8 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_177</name>
+        <pose>1.8 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_178</name>
+        <pose>1.8 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_179</name>
+        <pose>2.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_180</name>
+        <pose>2.2 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_181</name>
+        <pose>2.2 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_182</name>
+        <pose>2.2 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_183</name>
+        <pose>2.2 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_184</name>
+        <pose>2.2 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_185</name>
+        <pose>2.2 0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_186</name>
+        <pose>2.2 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_187</name>
+        <pose>2.2 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_188</name>
+        <pose>2.2 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_189</name>
+        <pose>2.2 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_190</name>
+        <pose>2.2 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_191</name>
+        <pose>2.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_192</name>
+        <pose>2.6 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_193</name>
+        <pose>2.6 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_194</name>
+        <pose>2.6 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_195</name>
+        <pose>2.6 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_196</name>
+        <pose>2.6 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_197</name>
+        <pose>2.6 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_198</name>
+        <pose>2.6 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_199</name>
+        <pose>2.6 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_200</name>
+        <pose>2.6 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_201</name>
+        <pose>3.0 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_202</name>
+        <pose>3.0 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_203</name>
+        <pose>3.0 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_204</name>
+        <pose>3.0 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_205</name>
+        <pose>3.0 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_206</name>
+        <pose>3.0 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_207</name>
+        <pose>3.0 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_208</name>
+        <pose>3.0 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_209</name>
+        <pose>3.0 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_210</name>
+        <pose>3.0 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_211</name>
+        <pose>3.0 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_212</name>
+        <pose>3.4000000000000004 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_213</name>
+        <pose>3.4000000000000004 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_214</name>
+        <pose>3.4000000000000004 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_215</name>
+        <pose>3.4000000000000004 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_216</name>
+        <pose>3.4000000000000004 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_217</name>
+        <pose>3.4000000000000004 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_218</name>
+        <pose>3.4000000000000004 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_219</name>
+        <pose>3.4000000000000004 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_220</name>
+        <pose>3.4000000000000004 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_221</name>
+        <pose>3.4000000000000004 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_222</name>
+        <pose>3.8000000000000003 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_223</name>
+        <pose>3.8000000000000003 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_224</name>
+        <pose>3.8000000000000003 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_225</name>
+        <pose>3.8000000000000003 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_226</name>
+        <pose>3.8000000000000003 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_227</name>
+        <pose>3.8000000000000003 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_228</name>
+        <pose>4.2 -4.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_229</name>
+        <pose>4.2 -3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_230</name>
+        <pose>4.2 -3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_231</name>
+        <pose>4.2 -3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_232</name>
+        <pose>4.2 -2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_233</name>
+        <pose>4.2 -2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_234</name>
+        <pose>4.2 -1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_235</name>
+        <pose>4.2 -1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_236</name>
+        <pose>4.2 -1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_237</name>
+        <pose>4.2 -0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_238</name>
+        <pose>4.2 0.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_239</name>
+        <pose>4.2 0.6000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_240</name>
+        <pose>4.2 1.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_241</name>
+        <pose>4.2 1.4000000000000001 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_242</name>
+        <pose>4.2 1.8 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_243</name>
+        <pose>4.2 2.2 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_244</name>
+        <pose>4.2 2.6 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_245</name>
+        <pose>4.2 3.0 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_246</name>
+        <pose>4.2 3.4000000000000004 0 0 0 0</pose>
+        </include>
+    
+        <include>
+        <uri>model://cube</uri>
+        <name>cube_247</name>
+        <pose>4.2 3.8000000000000003 0 0 0 0</pose>
+        </include>
+    
+    </world>
+    </sdf>
+    
