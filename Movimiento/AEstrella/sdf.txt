@@ -1,0 +1,48 @@
+1.Si cell_1 o cell_2 son None
+	1.1 Sacamos celdas (cell_1 y cell_2)
+	1.2 Iteramos i
+	1.3 Si ninguna celda es nula #Esto solo es de la primera iteracion
+		1.3.1 Buscamos colindancias (activar bandera_diagonal o bandera_recta)
+		1.3.2 Bandera de giro_direccionar true
+	1.4 sino
+		1.4.1 Valores de movimiento en 0
+2. si no
+	2.1 si bandera de giro_direccionar es true
+		2.1.1 Definimos el giro según tipo de colindancia 
+		2.1.2 Iteramos tiempo de movimiento
+		2.1.3 Si tiempo de movimiento es igual a la constante de giro
+			2.1.3.1 tiempo de movimiento = 0
+			2.1.3.2 bandera de giro_direccionar = false
+	2.2 si no
+		2.2.1 si bandera de giro_posicionar es true
+			2.2.1.1 Definimos el giro según su posición
+			2.2.1.2 Iteramos tiempo de movimiento 
+			2.2.1.3 Si tiempo de movimiento es igual a la constante de giro
+				2.2.1.3.1 tiempo de movimiento = 0
+				2.2.1.3.2 bandera de giro_posicionar = false
+				2.2.1.3.3 Sacamos celdas (cell_1 y cell_2)
+				2.2.1.3.4 Iteramos i
+				2.2.1.3.5 Si ninguna celda es nula 
+					2.2.1.3.5.1 Buscamos colindancias (activar bandera_diagonal o bandera_recta)
+					2.2.1.3.5.2 Bandera de giro_direccionar true
+		2.2.2 si no
+			2.2.2 Si bandera_diagonal = true
+				2.2.2.1 Definimos movimiento
+				2.2.2.2 Iteramos tiempo de movimiento
+				2.2.2.3 si tiempo de movimiento = constante diagonal
+					2.2.2.3.1 giro_posicionar = true
+					2.2.2.3.2 tiempo de movimiento = 0
+					2.2.2.3.3 bandera_diagonal = false
+			2.2.3 si no
+				2.2.3.1 si bandera_recta = true
+					2.2.3.1.1 Definimos movimiento
+					2.2.3.1.2 Iteramos tiempo de movimiento
+					2.2.3.1.3 si tiempo de movimiento = constante diagonal
+						2.2.3.1.3.1 giro_posicionar = true
+						2.2.3.1.3.2 tiempo de movimiento = 0
+						2.2.3.1.3.3 bandera_recta = false
+				
+				
+
+gira(direccionar), avanza, gira(posicionar)
+	

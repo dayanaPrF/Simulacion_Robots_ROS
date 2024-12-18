@@ -1,0 +1,23 @@
+if __name__ == "__main__":
+    g=nx.DiGraph()
+    g.add_nodes_from(['A','B','C','D','E','F','G'])
+    g.add_edge('A', 'C', weight=6)
+    g.add_edge('A', 'D', weight=4)
+    g.add_edge('B', 'A', weight=9)
+    g.add_edge('C', 'D', weight=9)
+    g.add_edge('D', 'B', weight=5)
+    g.add_edge('D', 'E', weight=6)
+    g.add_edge('D', 'G', weight=7)
+    g.add_edge('E', 'B', weight=6)
+    g.add_edge('E', 'G', weight=1)
+    g.add_edge('F', 'C', weight=1)
+    g.add_edge('G', 'F', weight=9)
+    sucesores = list(g.successors('A'))
+    print(sucesores)
+    pos = nx.spring_layout(g)  # Posiciones de nodos
+    edges = g.edges(data=True) # Lista de aristas
+    nx.draw(g, pos, with_labels=True, node_color='lightblue', edge_color='gray', node_size=1000, font_size=15)# Dibuja nodos y aristas
+    edge_labels = {(u, v): d['weight'] for u, v, d in edges} # Dibujar los pesos de las aristas
+    nx.draw_networkx_edge_labels(g, pos, edge_labels=edge_labels)
+    #plt.title("Grafo dirigido con pesos en las aristas", fontsize=20)
+    plt.show()
